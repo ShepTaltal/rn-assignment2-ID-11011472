@@ -2,8 +2,8 @@
 
 Description
 This project is a simple React Native application created using Expo CLI. The application displays a list of items with the following modifications:
-The background color of the View component is changed to a blue color
-The font size of the text is increased to 24
+The background color of the View component is changed to a blue color,
+The font size of the text is increased to 24,
 The name "Shepherd" is made bold
 
 Screenshot
